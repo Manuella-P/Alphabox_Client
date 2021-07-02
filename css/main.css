@@ -1,0 +1,116 @@
+
+html,body{
+	padding: 0px;
+	margin: 0px;
+	background-color:green;
+}
+
+.grand_block{
+
+	width: 100%;
+	background: white;
+	display: inline-block;
+}
+
+
+.logo_game{
+	margin-top: 2%;
+
+	margin-left: 42%;
+	display: inline-block;
+}
+
+.leaner{
+	display: inline-block;
+	width: 90%;
+	text-align: center;
+	margin-left: 100px;
+}
+
+.leaner div{
+	display: inline-block;
+	width: 55%;
+	margin: 1%;
+	}
+
+
+
+.playBtn{
+
+	display: inline-block;
+	border: none;
+	background-color: #2196f3 ;
+	width: 250px;
+	border-radius: 30px;
+	cursor: pointer;
+	margin-top: 50px;
+	font-family: "ubuntu";
+	box-shadow: 5px 5px 5px 1px grey;
+	font-size: 14px;
+}
+
+.gotodashboard img{
+	display: inline-block;
+	height: 45px;
+	width: 240px;
+	position: absolute;
+	bottom: 60px;
+}
+.gotodashboard
+{
+	width: 400px;
+	display: inline-block;
+	float: right;
+	height: 45px;
+	bottom: 0px;
+	cursor: pointer;
+}
+
+
+.Polygone1
+{
+	width: 10px;
+	float:left;
+	height:10px;
+}
+
+
+
+
+h1{
+	text-align: center;
+	text-decoration-color: green;
+	text-decoration-style: wavy;
+	font-size: 20px;
+	background-color: white;
+	width: 0x
+}
+
+.logo_title
+{
+	padding: 0px;
+	display: inline-block;
+	width: 350px;
+	margin: 0px;
+	float: left;
+}
+
+.logo_title h1{
+	display: inline-block;
+	font-size: 34px;
+	width: 100px;
+	vertical-align: top;
+		color: #2196f3 ;
+
+}
+
+.logo_title img{
+	display: inline-block;
+	height: 115px;
+	margin-left: 35px;
+}
+
+
+.playBtn :hover{
+	opacity: 0.6;
+}
